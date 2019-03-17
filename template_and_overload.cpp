@@ -1,5 +1,5 @@
 /*
-This program demonstrate 
+This program demonstrate templates and overload in c++
 
 Mult matrix to matrix or matrix to vector.
 02.2019 P.Sh.
